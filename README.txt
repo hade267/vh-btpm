@@ -1,3 +1,3 @@
 Template Name: Furni
-Template Author: hade267
+Template Author: hade2677
 
